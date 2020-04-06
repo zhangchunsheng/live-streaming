@@ -1,0 +1,9 @@
+.gradle
+.idea
+
+.DS_Store
+.vscode
+.project
+.settings
+xcuserdata
+*.iml
