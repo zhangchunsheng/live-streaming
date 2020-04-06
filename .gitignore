@@ -7,3 +7,14 @@
 .settings
 xcuserdata
 *.iml
+
+tencentyun/Android/XiaoZhiBo/.idea
+tencentyun/Android/XiaoZhiBo/.gradle
+tencentyun/Android/XiaoZhiBo/app/build/
+tencentyun/Android/XiaoZhiBo/beauty/build/
+
+tencentyun/Android/Demo/.gradle
+tencentyun/Android/Demo/.idea
+tencentyun/Android/Demo/app/build
+tencentyun/Android/Demo/lvb/build
+tencentyun/Android/Demo/beauty/build/
