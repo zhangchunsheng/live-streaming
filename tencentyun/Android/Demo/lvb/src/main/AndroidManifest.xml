@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tencent.liteav.demo.lvb">
+    package="com.luomor.liteav.demo.lvb">
 
     <application android:theme="@style/AppTheme">
 
@@ -29,7 +29,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.tencent.liteav.demo"
+            android:authorities="com.luomor.liteav.demo"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
