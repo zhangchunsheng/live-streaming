@@ -203,7 +203,7 @@
             android:layout_weight="1" />
     </LinearLayout>
 
-    <com.tencent.liteav.demo.beauty.BeautyPanel
+    <com.luomor.liteav.demo.beauty.BeautyPanel
         android:id="@+id/pusher_beauty_pannel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

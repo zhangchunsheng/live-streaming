@@ -18,7 +18,7 @@
             android:layout_centerInParent="true"
             android:visibility="visible"/>
 
-        <com.tencent.liteav.demo.lvb.common.view.TXPlayVisibleLogView
+        <com.luomor.liteav.demo.lvb.common.view.TXPlayVisibleLogView
             android:id="@+id/visibleLogView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

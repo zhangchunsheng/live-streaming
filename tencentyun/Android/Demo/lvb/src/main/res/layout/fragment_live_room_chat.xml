@@ -347,7 +347,7 @@
         android:background="@drawable/btn_kick_out"
         android:visibility="invisible"/>
 
-    <com.tencent.liteav.demo.beauty.BeautyPanel
+    <com.luomor.liteav.demo.beauty.BeautyPanel
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:id="@+id/layoutFaceBeauty"

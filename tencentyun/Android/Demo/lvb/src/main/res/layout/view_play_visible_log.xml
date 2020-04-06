@@ -115,7 +115,7 @@
             android:textColor="#000"
             android:textSize="12dp" />
 
-        <com.tencent.liteav.demo.lvb.common.view.TCSeekbarWithText
+        <com.luomor.liteav.demo.lvb.common.view.TCSeekbarWithText
             android:id="@+id/seekbar_balance"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
